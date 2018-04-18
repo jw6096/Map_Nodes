@@ -1,0 +1,11 @@
+{
+  "name": "map_nodes",
+  "version": "1.0.0",
+  "description": "Setting up Node project for mapNodes assignment",
+  "main": "server.js",
+  "scripts": {
+    "start": "node ./src/server.js"
+  },
+  "author": "Joe Wang",
+  "license": "UNLICENSED"
+}
